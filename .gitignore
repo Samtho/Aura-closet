@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (por si en el futuro se añade tooling)
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Backups JSON del propio prototipo (usuarios pueden exportar aquí sin querer)
+closet-virtual-*.json
