@@ -1,4 +1,4 @@
-# Closet Virtual — Prototipo
+# Aura Closet — Prototipo
 
 Prototipo funcional de una web app para gestión de armario personal: inventario de prendas, composición de outfits, calendario de uso, ciclo de lavado, perfil de estilo y recomendaciones con IA.
 
